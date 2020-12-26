@@ -1,0 +1,100 @@
+.Liuyan .van-cell {
+    border: 1px solid #E6E6E6;
+    width: 92%;
+    margin: 0 auto;
+    padding: 0.05rem;
+    font-size: 0.14rem;
+    color: #E6E6E6;
+}
+
+.Liuyan .van-uploader__upload {
+    width: 28vw;
+    height: 28vw;
+}
+
+.Liuyan .van-uploader__preview-image {
+    width: 28vw;
+    height: 28vw;
+}
+
+.dizhi .van-button--danger {
+    border: 1px solid #03B585;
+    background: #03B585;
+    border-radius: 0.4rem;
+    font-size: 0.15rem;
+}
+
+.dizhi .van-switch--on {
+    background: #03B585;
+}
+
+.dizhi .van-address-edit__buttons {
+    margin-top: 0.8rem
+}
+
+.yijian img {
+    height: 0.6rem;
+    width: 0.6rem;
+    margin: 0 auto;
+    margin-top: 0.1rem
+}
+
+.fabu .van-cell {
+    border: 1px solid #E6E6E6;
+    width: 92%;
+    margin: 0 auto;
+    padding: 0.05rem;
+    font-size: 0.14rem;
+    color: #E6E6E6;
+}
+
+.fabu .van-uploader__upload {
+    width: 28vw;
+    height: 28vw;
+}
+
+.fabu .van-uploader__preview-image {
+    width: 28vw;
+    height: 28vw;
+}
+
+.hello .van-cell {
+    background: #03b585;
+    padding: 0;
+    height: 0.44rem;
+    font-size: 0.13rem;
+    color: #fff;
+}
+
+.hello .van-cell__value--alone {
+    color: #fff;
+    line-height: 0.44rem;
+    text-align: center;
+}
+
+.hello .van-cell__right-icon {
+    color: #fff;
+}
+
+.hello .van-cell:not(:last-child)::after {
+    border: none;
+}
+
+.hello .van-popup--center {
+    width: 100%;
+}
+
+.van-field__control:disabled {
+    color: #323233
+}
+
+.Bookstore .van-notice-bar {
+    color: #999999;
+    background-color: #fff
+}
+
+.Bookstore .van-notice-bar__content {
+    color: #333;
+    font-size: 0.13rem;
+    /* line-height: 0.44rem; */
+}
